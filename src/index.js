@@ -15,3 +15,18 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+ // const handleValue = (inputValue, value) => {
+  //   let currentValue = {};
+  //   let indexValue = 0;
+  //   list.forEach((element, index) => {
+  //       if(element.value === value)
+  //       currentValue = element;
+  //       indexValue = index;
+  //   }); 
+    
+  //   const newList = list;
+  //   newList.splice(indexValue, 1, currentValue)
+  //    setList([...newList]);
+  // }
